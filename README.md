@@ -6,4 +6,4 @@ You can see the built tree at tree_graphs.
 
 # Lab 2: About Support Vector Machine
 
-# Lab 3:
+# Lab 3:Baysian learning
